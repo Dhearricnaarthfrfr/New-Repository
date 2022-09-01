@@ -1,0 +1,12 @@
+body {
+    background-color: lightslategray;
+
+    color: rgb(234, 255, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+  }
+
+  p {
+      color: coral;
+      background-color: darkolivegreen;
+  }
